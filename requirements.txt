@@ -1,4 +1,5 @@
 jsonschema
+ruamel
 uritemplate
 requests
 networkx
