@@ -1,0 +1,13 @@
+jsonschema
+uritemplate
+requests
+networkx
+pyyaml
+ujson
+ibis-framework
+pandas
+aiofiles
+aiohttp
+toolz
+pydot
+graphviz
