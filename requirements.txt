@@ -12,3 +12,5 @@ aiohttp
 toolz
 pydot
 graphviz
+rdflib 
+pyld
