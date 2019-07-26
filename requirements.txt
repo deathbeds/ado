@@ -18,4 +18,3 @@ hvplot
 matplotlib
 importnb
 jsontableschema
-python=3.6
