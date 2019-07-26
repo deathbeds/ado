@@ -14,3 +14,8 @@ pydot
 graphviz
 rdflib 
 pyld
+hvplot
+matplotlib
+importnb
+jsontableschema
+python=3.6
