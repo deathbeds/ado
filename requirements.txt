@@ -17,4 +17,6 @@ pyld
 hvplot
 matplotlib
 importnb
+dataclasses
+pydantic
 jsontableschema
